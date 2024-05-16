@@ -27,6 +27,6 @@ I use power bi as a primary tool for data modeling, creating new columns & measu
   information clearly.
 
 **Contact Details**
-Email: mukesh42520@gmail.com
-Linkedid: www.linkedin.com/in/mukesh-kumar-9100312b0
+**Email**: mukesh42520@gmail.com                        
+**Linkedid**: www.linkedin.com/in/mukesh-kumar-9100312b0
 
