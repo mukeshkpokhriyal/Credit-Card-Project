@@ -11,11 +11,11 @@ I use power bi as a primary tool for data modeling, creating new columns & measu
 • Female customers are 39% more than male, but the total number of transitions done by male customers is         2.78% and the revenue generationis 3.7% more than female.
 • Women have 37.9% more delinquent accounts than men.
 • Females are more happy with the services than Males. The average satisfaction score of females is 3.20         and males is 3.18.
-• The customer acqusition cost of per female is $94.61 and per male is $98.53 which is more than female by       4.1%.
+• The customer acquisition cost of per female is $94.61 and per male is $98.53 which is more than female by       4.1%.
 • Maximum revenue is generated through blue card.
 • Blue Card holders are most happy with the company services with maximum satisfaction count and maximum         average of score.
-• The lowest customer acqusition cost is of gold card holders which is $93.31.
-• Highest revenue is genrated in December month and lowest is in November.
+• The lowest customer acquisition cost is of gold card holders which is $93.31.
+• Highest revenue is generated in December month and lowest is in November.
 
 **Learings:**
 • Data Preparation Skills: Data cleaning and transformation to ensure accurate analysis in Power BI.
