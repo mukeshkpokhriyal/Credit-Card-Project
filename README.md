@@ -1,5 +1,5 @@
 # Credit-Card-Project
-Power BI Dashboard
+**Power BI Dashboard**
 
 **Objective:**
 To develop an interactive Power BI dashboard that provides actionable insights and visualizations to optimize business performance and decision-making processes. This project aims to transform raw data into meaningful metrics and present them in a interactive format. The goal is to find valuable insights, identify trends, and make data-driven decisions that drive business growth and efficiency.
