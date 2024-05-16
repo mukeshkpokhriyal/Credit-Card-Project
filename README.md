@@ -26,7 +26,7 @@ I use power bi as a primary tool for data modeling, creating new columns & measu
   filters, tables and charts. Also how to choose the right chart types, colors and formatting to convey 
   information clearly.
 
-**Contact Details**
+**Contact Details**                                     
 **Email**: mukesh42520@gmail.com                        
 **Linkedid**: www.linkedin.com/in/mukesh-kumar-9100312b0
 
